@@ -1,0 +1,34 @@
+G:\EGC\Laborator 9\bin\Debug\Laborator 9.exe.config
+G:\EGC\Laborator 9\bin\Debug\Laborator 9.exe
+G:\EGC\Laborator 9\bin\Debug\Laborator 9.pdb
+G:\EGC\Laborator 9\bin\Debug\OpenTK.dll
+G:\EGC\Laborator 9\bin\Debug\OpenTK.GLControl.dll
+G:\EGC\Laborator 9\bin\Debug\OpenTK.pdb
+G:\EGC\Laborator 9\bin\Debug\OpenTK.xml
+G:\EGC\Laborator 9\bin\Debug\OpenTK.GLControl.pdb
+G:\EGC\Laborator 9\bin\Debug\OpenTK.GLControl.xml
+G:\EGC\Laborator 9\obj\Debug\Laborator 9.csproj.AssemblyReference.cache
+G:\EGC\Laborator 9\obj\Debug\Laborator_9.Properties.Resources.resources
+G:\EGC\Laborator 9\obj\Debug\Laborator 9.csproj.GenerateResource.cache
+G:\EGC\Laborator 9\obj\Debug\Laborator 9.csproj.CoreCompileInputs.cache
+G:\EGC\Laborator 9\obj\Debug\Laborator 9.csproj.CopyComplete
+G:\EGC\Laborator 9\obj\Debug\Laborator 9.exe
+G:\EGC\Laborator 9\obj\Debug\Laborator 9.pdb
+G:\EGC\Laborator 9\obj\Debug\Laborator_9.Form1.resources
+F:\EGC_IbanescuDragos\Laborator 9\bin\Debug\Laborator 9.exe.config
+F:\EGC_IbanescuDragos\Laborator 9\bin\Debug\Laborator 9.exe
+F:\EGC_IbanescuDragos\Laborator 9\bin\Debug\Laborator 9.pdb
+F:\EGC_IbanescuDragos\Laborator 9\bin\Debug\OpenTK.dll
+F:\EGC_IbanescuDragos\Laborator 9\bin\Debug\OpenTK.GLControl.dll
+F:\EGC_IbanescuDragos\Laborator 9\bin\Debug\OpenTK.pdb
+F:\EGC_IbanescuDragos\Laborator 9\bin\Debug\OpenTK.xml
+F:\EGC_IbanescuDragos\Laborator 9\bin\Debug\OpenTK.GLControl.pdb
+F:\EGC_IbanescuDragos\Laborator 9\bin\Debug\OpenTK.GLControl.xml
+F:\EGC_IbanescuDragos\Laborator 9\obj\Debug\Laborator 9.csproj.AssemblyReference.cache
+F:\EGC_IbanescuDragos\Laborator 9\obj\Debug\Laborator_9.Form1.resources
+F:\EGC_IbanescuDragos\Laborator 9\obj\Debug\Laborator_9.Properties.Resources.resources
+F:\EGC_IbanescuDragos\Laborator 9\obj\Debug\Laborator 9.csproj.GenerateResource.cache
+F:\EGC_IbanescuDragos\Laborator 9\obj\Debug\Laborator 9.csproj.CoreCompileInputs.cache
+F:\EGC_IbanescuDragos\Laborator 9\obj\Debug\Laborator 9.csproj.CopyComplete
+F:\EGC_IbanescuDragos\Laborator 9\obj\Debug\Laborator 9.exe
+F:\EGC_IbanescuDragos\Laborator 9\obj\Debug\Laborator 9.pdb
